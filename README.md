@@ -1,3 +1,4 @@
+
 # Ex.No:3 Develop a simple application to play and control the audio file in android studio.
 
 
@@ -29,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to play and control the audio file”.
-Developed by: BLESSING JEFFREY YL
-Registeration Number :212223220014
+Developed by: MOENISH BAALAN G
+Registeration Number :212223220057
 */
 ```
 activity_main.xml
@@ -163,6 +164,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 <img width="1920" height="1020" alt="Screenshot 2026-11-25 092112" src="https://github.com/user-attachments/assets/0a394a98-c7d1-4980-bcf1-67c843fa6f8a" />
+
+
+
+## RESULT
+   Thus a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio is developed and executed successfully.
 
 
 
